@@ -1,5 +1,5 @@
 # important-negotiations
-#### Useful pictures for important negotiations.
+#### Collections of useful pictures for important negotiations.
 
 *Pull requests encouraged!*
 
