@@ -1,4 +1,7 @@
 # important-negotiations
+#### Useful pictures for important negotiations.
+
+*Pull requests encouraged!*
 
 ###### cat-evil.jpg
 ![](/cat-evil.jpg?raw=true "cat-evil.jpg")
