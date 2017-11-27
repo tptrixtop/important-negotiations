@@ -20,3 +20,6 @@
 
 ###### ugor.jpg
 ![](/ugor.jpg?raw=true "ugor.jpg")
+
+###### pavamiti.jpg
+![](/helpme.jpg?raw=true "helpme.jpg")
